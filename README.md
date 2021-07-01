@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A FullStack Web Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **.Net Core with C# and React Native**
+- 🔎 I am a web developer who is proficient in both back-end and front-end frameworks. My passion lies on the lookout for problems to solve, topics to learn, and new ways to approach things.
+
+- 📆 I’m currently learning **.Net Core with C# and React Native**
 
 - 📫 How to reach me **marceloleandrofernandez@gmail.com**
 
